@@ -1,7 +1,9 @@
-Hemos propuesto este recorrido para contruir esta web:
+Ni un año de pandemia, ha detenido el éxodo masivo de ciudadanos de su país de origen.
 
-- Escribe el texto en `nano`.
-- Utiliza sintaxis _Markdown_.
-- Una vez que tengas el texto, copie el _Markdown_ en la página de prueba de [Pandoc](https://pandoc.org/try) y conviértetelo desde ese menú (_parse_) a HTML.
-- Copia ese _HTML_ y pégalo en el código de esta parte del contenido.
+
+Acorde a datos de [Acnur](https://acnur.org); al menos __79.5 millones__ de personas se ha visto obligada a abandonar sus hogares.
+
+Tan sólo __26 millones__ han conseguido el estatus de refugiados, la mayoría menores de 18 años.
+
+¿Cuál es el país de origen de estos solicitantes de protección internacional?
 
